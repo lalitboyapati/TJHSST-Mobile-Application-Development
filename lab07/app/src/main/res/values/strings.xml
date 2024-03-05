@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">finallab07</string>
+    <string name="greeting">Hello TJHSST %1$s</string>
+    <string name="clickme">Click me %1$d</string>
+    <string name="greeting2">Hello Rock Star</string>
+    <string name="greeting3">Hello King</string>
+    <string name="greeting4">Hello Queen</string>
+    <string name="greeting5">Hello Jack</string>
+</resources>
